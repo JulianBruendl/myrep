@@ -1,6 +1,5 @@
 # myrep
-Halli Hallo
-15.11.2024
+Heute ist Freitag, der 15.11.2024
 
 
 
